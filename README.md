@@ -2,6 +2,6 @@
 
 This is the project about Tic Tac Toe Game 
 
-Git Clone it using the git-clone method.
+You can copy it using the git-clone method.
 
 
